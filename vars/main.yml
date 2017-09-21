@@ -1,0 +1,12 @@
+---
+# vars file for nmap
+
+dirs_info:
+  Windows:
+    tmp: C:\tmp
+
+packages_info:
+  7.60:
+    Windows:
+      file: nmap.install.7.60.nupkg
+      pull: ftp://10.0.250.100/pub/nmap/window/nmap.install.7.60.nupkg

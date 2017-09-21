@@ -1,0 +1,6 @@
+---
+# defaults file for nmap
+
+id: nmap
+version: 7.60
+mode: pull
